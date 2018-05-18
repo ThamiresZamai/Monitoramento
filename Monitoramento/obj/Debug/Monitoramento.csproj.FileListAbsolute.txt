@@ -1,0 +1,9 @@
+C:\Users\Thamires\source\repos\Monitoramento\Monitoramento\bin\Monitoramento.dll.config
+C:\Users\Thamires\source\repos\Monitoramento\Monitoramento\bin\Monitoramento.dll
+C:\Users\Thamires\source\repos\Monitoramento\Monitoramento\bin\Monitoramento.pdb
+C:\Users\Thamires\source\repos\Monitoramento\Monitoramento\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Thamires\source\repos\Monitoramento\Monitoramento\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Thamires\source\repos\Monitoramento\Monitoramento\obj\Debug\Monitoramento.csprojResolveAssemblyReference.cache
+C:\Users\Thamires\source\repos\Monitoramento\Monitoramento\obj\Debug\Monitoramento.csproj.CoreCompileInputs.cache
+C:\Users\Thamires\source\repos\Monitoramento\Monitoramento\obj\Debug\Monitoramento.dll
+C:\Users\Thamires\source\repos\Monitoramento\Monitoramento\obj\Debug\Monitoramento.pdb
